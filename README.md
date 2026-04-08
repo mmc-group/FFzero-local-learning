@@ -1,6 +1,6 @@
 # FFzero-local-learning
 
-This repository contains the implementation code for paper [Local learning for stable backpropagation-free neural network training towards physical learning](https://arxiv.org/abs/2603.24790).
+This repository contains the implementation code for paper [Local learning for stable backpropagation-free neural network training towards physical learning](https://arxiv.org/abs/2603.24790), _Arxiv:2603.24790._
 
 ---
 
